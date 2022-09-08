@@ -1,3 +1,6 @@
+import pandas as pd
+import os
+
 # Step 1) import the csv files
 def import_csv_lst(dirname):
     
